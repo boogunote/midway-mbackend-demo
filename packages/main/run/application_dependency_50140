@@ -1,8 +1,0 @@
-digraph G {
-  "__lifecycle__containerConfiguration" [ label = "__lifecycle__containerConfiguration(ContainerConfiguration)
-scope:Request", fontsize = 10 ];
-  "homeController" [ label = "homeController(HomeController)
-scope:Request", fontsize = 10 ];
-  "ctx";
-  "homeController" -> "ctx" [ label = "properties", fontsize = 8 ];
-}

@@ -1,8 +1,0 @@
-digraph G {
-  "homeController" [ label = "homeController(HomeController)
-scope:Request", fontsize = 10 ];
-  "ctx";
-  "__pipeline_identifier__" [ label = "__pipeline_identifier__(pipelineFactory)
-scope:undefined", fontsize = 10 ];
-  "homeController" -> "ctx" [ label = "properties", fontsize = 8 ];
-}
