@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1587969876351,
+    "end": 1587969876740,
+    "duration": 389,
+    "pid": 52995,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1587969876355,
+    "end": 1587969876376,
+    "duration": 21,
+    "pid": 52995,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1587969876376,
+    "end": 1587969876407,
+    "duration": 31,
+    "pid": 52995,
+    "index": 2
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1587969876376,
+    "end": 1587969876378,
+    "duration": 2,
+    "pid": 52995,
+    "index": 3
+  },
+  {
+    "name": "Require(1) /Users/harry/project/applications/one-midway/node_modules/egg-session/config/config.default.js",
+    "start": 1587969876378,
+    "end": 1587969876379,
+    "duration": 1,
+    "pid": 52995,
+    "index": 4
+  },
+  {
+    "name": "Require(2) /Users/harry/project/applications/one-midway/node_modules/egg-security/config/config.default.js",
+    "start": 1587969876379,
+    "end": 1587969876380,
+    "duration": 1,
+    "pid": 52995,
+    "index": 5
+  },
+  {
+    "name": "Require(3) /Users/harry/project/applications/one-midway/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1587969876382,
+    "end": 1587969876382,
+    "duration": 0,
+    "pid": 52995,
+    "index": 6
+  },
+  {
+    "name": "Require(4) /Users/harry/project/applications/one-midway/node_modules/egg-onerror/config/config.default.js",
+    "start": 1587969876383,
+    "end": 1587969876384,
+    "duration": 1,
+    "pid": 52995,
+    "index": 7
+  },
+  {
+    "name": "Require(5) /Users/harry/project/applications/one-midway/node_modules/egg-i18n/config/config.default.js",
+    "start": 1587969876384,
+    "end": 1587969876385,
+    "duration": 1,
+    "pid": 52995,
+    "index": 8
+  },
+  {
+    "name": "Require(6) /Users/harry/project/applications/one-midway/node_modules/egg-watcher/config/config.default.js",
+    "start": 1587969876385,
+    "end": 1587969876386,
+    "duration": 1,
+    "pid": 52995,
+    "index": 9
+  },
+  {
+    "name": "Require(7) /Users/harry/project/applications/one-midway/node_modules/egg-schedule/config/config.default.js",
+    "start": 1587969876387,
+    "end": 1587969876388,
+    "duration": 1,
+    "pid": 52995,
+    "index": 10
+  },
+  {
+    "name": "Require(8) /Users/harry/project/applications/one-midway/node_modules/egg-multipart/config/config.default.js",
+    "start": 1587969876388,
+    "end": 1587969876389,
+    "duration": 1,
+    "pid": 52995,
+    "index": 11
+  },
+  {
+    "name": "Require(9) /Users/harry/project/applications/one-midway/node_modules/egg-development/config/config.default.js",
+    "start": 1587969876389,
+    "end": 1587969876390,
+    "duration": 1,
+    "pid": 52995,
+    "index": 12
+  },
+  {
+    "name": "Require(10) /Users/harry/project/applications/one-midway/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1587969876391,
+    "end": 1587969876392,
+    "duration": 1,
+    "pid": 52995,
+    "index": 13
+  },
+  {
+    "name": "Require(11) /Users/harry/project/applications/one-midway/node_modules/egg-static/config/config.default.js",
+    "start": 1587969876392,
+    "end": 1587969876393,
+    "duration": 1,
+    "pid": 52995,
+    "index": 14
+  },
+  {
+    "name": "Require(12) /Users/harry/project/applications/one-midway/node_modules/egg-view/config/config.default.js",
+    "start": 1587969876393,
+    "end": 1587969876395,
+    "duration": 2,
+    "pid": 52995,
+    "index": 15
+  },
+  {
+    "name": "Require(13) /Users/harry/project/applications/one-midway/node_modules/egg/config/config.default.js",
+    "start": 1587969876395,
+    "end": 1587969876396,
+    "duration": 1,
+    "pid": 52995,
+    "index": 16
+  },
+  {
+    "name": "Require(14) /Users/harry/project/applications/one-midway/node_modules/midway-web/config/config.default.js",
+    "start": 1587969876398,
+    "end": 1587969876399,
+    "duration": 1,
+    "pid": 52995,
+    "index": 17
+  },
+  {
+    "name": "Require(15) config/config.default.ts",
+    "start": 1587969876400,
+    "end": 1587969876400,
+    "duration": 0,
+    "pid": 52995,
+    "index": 18
+  },
+  {
+    "name": "Require(16) /Users/harry/project/applications/one-midway/node_modules/egg-security/config/config.local.js",
+    "start": 1587969876400,
+    "end": 1587969876401,
+    "duration": 1,
+    "pid": 52995,
+    "index": 19
+  },
+  {
+    "name": "Require(17) /Users/harry/project/applications/one-midway/node_modules/egg-watcher/config/config.local.js",
+    "start": 1587969876402,
+    "end": 1587969876402,
+    "duration": 0,
+    "pid": 52995,
+    "index": 20
+  },
+  {
+    "name": "Require(18) /Users/harry/project/applications/one-midway/node_modules/egg-view/config/config.local.js",
+    "start": 1587969876403,
+    "end": 1587969876404,
+    "duration": 1,
+    "pid": 52995,
+    "index": 21
+  },
+  {
+    "name": "Require(19) /Users/harry/project/applications/one-midway/node_modules/egg/config/config.local.js",
+    "start": 1587969876404,
+    "end": 1587969876405,
+    "duration": 1,
+    "pid": 52995,
+    "index": 22
+  },
+  {
+    "name": "Require(20) /Users/harry/project/applications/one-midway/node_modules/midway-web/config/config.local.js",
+    "start": 1587969876406,
+    "end": 1587969876406,
+    "duration": 0,
+    "pid": 52995,
+    "index": 23
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1587969876408,
+    "end": 1587969876464,
+    "duration": 56,
+    "pid": 52995,
+    "index": 24
+  },
+  {
+    "name": "Require(21) /Users/harry/project/applications/one-midway/node_modules/egg-security/app/extend/agent.js",
+    "start": 1587969876408,
+    "end": 1587969876411,
+    "duration": 3,
+    "pid": 52995,
+    "index": 25
+  },
+  {
+    "name": "Require(22) /Users/harry/project/applications/one-midway/node_modules/egg-schedule/app/extend/agent.js",
+    "start": 1587969876411,
+    "end": 1587969876454,
+    "duration": 43,
+    "pid": 52995,
+    "index": 26
+  },
+  {
+    "name": "Require(23) /Users/harry/project/applications/one-midway/node_modules/egg-logrotator/app/extend/agent.js",
+    "start": 1587969876454,
+    "end": 1587969876463,
+    "duration": 9,
+    "pid": 52995,
+    "index": 27
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1587969876524,
+    "end": 1587969876605,
+    "duration": 81,
+    "pid": 52995,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /Users/harry/project/applications/one-midway/node_modules/egg-security/app/extend/context.js",
+    "start": 1587969876524,
+    "end": 1587969876546,
+    "duration": 22,
+    "pid": 52995,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /Users/harry/project/applications/one-midway/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1587969876546,
+    "end": 1587969876553,
+    "duration": 7,
+    "pid": 52995,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Users/harry/project/applications/one-midway/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1587969876553,
+    "end": 1587969876554,
+    "duration": 1,
+    "pid": 52995,
+    "index": 31
+  },
+  {
+    "name": "Require(27) /Users/harry/project/applications/one-midway/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1587969876554,
+    "end": 1587969876598,
+    "duration": 44,
+    "pid": 52995,
+    "index": 32
+  },
+  {
+    "name": "Require(28) /Users/harry/project/applications/one-midway/node_modules/egg-view/app/extend/context.js",
+    "start": 1587969876599,
+    "end": 1587969876601,
+    "duration": 2,
+    "pid": 52995,
+    "index": 33
+  },
+  {
+    "name": "Require(29) /Users/harry/project/applications/one-midway/node_modules/egg/app/extend/context.js",
+    "start": 1587969876601,
+    "end": 1587969876602,
+    "duration": 1,
+    "pid": 52995,
+    "index": 34
+  },
+  {
+    "name": "Require(30) /Users/harry/project/applications/one-midway/node_modules/midway-web/app/extend/context.js",
+    "start": 1587969876602,
+    "end": 1587969876603,
+    "duration": 1,
+    "pid": 52995,
+    "index": 35
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1587969876605,
+    "end": 1587969876629,
+    "duration": 24,
+    "pid": 52995,
+    "index": 36
+  },
+  {
+    "name": "Require(31) /Users/harry/project/applications/one-midway/node_modules/egg-security/agent.js",
+    "start": 1587969876605,
+    "end": 1587969876606,
+    "duration": 1,
+    "pid": 52995,
+    "index": 37
+  },
+  {
+    "name": "Require(32) /Users/harry/project/applications/one-midway/node_modules/egg-onerror/agent.js",
+    "start": 1587969876607,
+    "end": 1587969876608,
+    "duration": 1,
+    "pid": 52995,
+    "index": 38
+  },
+  {
+    "name": "Require(33) /Users/harry/project/applications/one-midway/node_modules/egg-watcher/agent.js",
+    "start": 1587969876608,
+    "end": 1587969876613,
+    "duration": 5,
+    "pid": 52995,
+    "index": 39
+  },
+  {
+    "name": "Require(34) /Users/harry/project/applications/one-midway/node_modules/egg-schedule/agent.js",
+    "start": 1587969876613,
+    "end": 1587969876616,
+    "duration": 3,
+    "pid": 52995,
+    "index": 40
+  },
+  {
+    "name": "Require(35) /Users/harry/project/applications/one-midway/node_modules/egg-development/agent.js",
+    "start": 1587969876616,
+    "end": 1587969876624,
+    "duration": 8,
+    "pid": 52995,
+    "index": 41
+  },
+  {
+    "name": "Require(36) /Users/harry/project/applications/one-midway/node_modules/egg-logrotator/agent.js",
+    "start": 1587969876624,
+    "end": 1587969876625,
+    "duration": 1,
+    "pid": 52995,
+    "index": 42
+  },
+  {
+    "name": "Require(37) /Users/harry/project/applications/one-midway/node_modules/midway-schedule/agent.js",
+    "start": 1587969876625,
+    "end": 1587969876627,
+    "duration": 2,
+    "pid": 52995,
+    "index": 43
+  },
+  {
+    "name": "Require(38) /Users/harry/project/applications/one-midway/node_modules/egg/agent.js",
+    "start": 1587969876627,
+    "end": 1587969876628,
+    "duration": 1,
+    "pid": 52995,
+    "index": 44
+  },
+  {
+    "name": "Before Start in /Users/harry/project/applications/one-midway/node_modules/egg-watcher/lib/init.js:15:14",
+    "start": 1587969876636,
+    "end": 1587969876730,
+    "duration": 94,
+    "pid": 52995,
+    "index": 45
+  },
+  {
+    "name": "Before Start in /Users/harry/project/applications/one-midway/node_modules/egg-schedule/agent.js:12:9",
+    "start": 1587969876636,
+    "end": 1587969876682,
+    "duration": 46,
+    "pid": 52995,
+    "index": 46
+  },
+  {
+    "name": "Before Start in /Users/harry/project/applications/one-midway/node_modules/egg-development/agent.js:12:9",
+    "start": 1587969876637,
+    "end": 1587969876738,
+    "duration": 101,
+    "pid": 52995,
+    "index": 47
+  },
+  {
+    "name": "Before Start in /Users/harry/project/applications/one-midway/node_modules/midway-web/dist/loader/loader.js:44:18",
+    "start": 1587969876637,
+    "end": 1587969876728,
+    "duration": 91,
+    "pid": 52995,
+    "index": 48
+  }
+]

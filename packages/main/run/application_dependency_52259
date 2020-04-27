@@ -1,0 +1,22 @@
+digraph G {
+  "__lifecycle__containerConfiguration" [ label = "__lifecycle__containerConfiguration(ContainerConfiguration)
+scope:Request", fontsize = 10 ];
+  "homeController" [ label = "homeController(HomeController)
+scope:Request", fontsize = 10 ];
+  "ctx";
+  "midway-subpackage-user:userController" [ label = "midway-subpackage-user:userController(UserController)
+scope:Request", fontsize = 10 ];
+  "midway-subpackage-user:userService" [ label = "midway-subpackage-user:userService(UserService)
+scope:Request", fontsize = 10 ];
+  "midway-subpackage-book:bookController" [ label = "midway-subpackage-book:bookController(BookController)
+scope:Request", fontsize = 10 ];
+  "midway-subpackage-book:bookService" [ label = "midway-subpackage-book:bookService(BookService)
+scope:Request", fontsize = 10 ];
+  "__pipeline_identifier__" [ label = "__pipeline_identifier__(pipelineFactory)
+scope:undefined", fontsize = 10 ];
+  "homeController" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "midway-subpackage-user:userController" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "midway-subpackage-user:userController" -> "midway-subpackage-user:userService" [ label = "properties", fontsize = 8 ];
+  "midway-subpackage-book:bookController" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "midway-subpackage-book:bookController" -> "midway-subpackage-book:bookService" [ label = "properties", fontsize = 8 ];
+}

@@ -1,0 +1,26 @@
+{
+  "name": "midway-demo-main",
+  "version": "0.0.1",
+  "main": "src/index",
+  "dependencies": {
+    "midway": "2",
+    "midway-subpackage-book": "^1.0.0",
+    "midway-subpackage-user": "^1.0.0"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "devDependencies": {
+    "midway-bin": "2"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "NODE_ENV=local midway-bin dev --ts",
+    "build": "midway-bin build -c",
+    "test": "NODE_ENV=test midway-bin test --ts --full-trace",
+    "cov": "NODE_ENV=unittest midway-bin cov --ts",
+    "clean": "midway-bin clean",
+    "autod": "midway-bin autod"
+  }
+}

@@ -1,0 +1,70 @@
+2020-04-27 13:39:58,938 INFO 48217 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-27 13:39:58,984 INFO 48217 [egg-multipart] stream mode enable
+2020-04-27 13:39:59,065 INFO 48217 [egg-static] starting static serve /public/ -> /Users/harry/project/applications/one-midway/packages/book/src/app/public
+2020-04-27 13:39:59,067 INFO 48217 [egg-security] use csrf middleware
+2020-04-27 13:39:59,068 INFO 48217 [egg-security] use methodnoallow middleware
+2020-04-27 13:39:59,069 INFO 48217 [egg-security] use noopen middleware
+2020-04-27 13:39:59,069 INFO 48217 [egg-security] use nosniff middleware
+2020-04-27 13:39:59,070 INFO 48217 [egg-security] use xssProtection middleware
+2020-04-27 13:39:59,071 INFO 48217 [egg-security] use xframe middleware
+2020-04-27 13:39:59,072 INFO 48217 [egg-security] use dta middleware
+2020-04-27 13:39:59,072 INFO 48217 [egg-security] compose 7 middlewares into one security middleware
+2020-04-27 13:39:59,080 INFO 48217 [egg:core] dump config after load, 7ms
+2020-04-27 13:39:59,093 INFO 48217 [egg-watcher:application] watcher start success
+2020-04-27 13:39:59,106 INFO 48217 [egg:core] dump config after ready, 10ms
+2020-04-27 13:41:50,089 INFO 48394 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-27 13:41:50,139 INFO 48394 [egg-multipart] stream mode enable
+2020-04-27 13:41:50,230 INFO 48394 [egg-static] starting static serve /public/ -> /Users/harry/project/applications/one-midway/packages/book/src/app/public
+2020-04-27 13:41:50,232 INFO 48394 [egg-security] use csrf middleware
+2020-04-27 13:41:50,233 INFO 48394 [egg-security] use methodnoallow middleware
+2020-04-27 13:41:50,233 INFO 48394 [egg-security] use noopen middleware
+2020-04-27 13:41:50,234 INFO 48394 [egg-security] use nosniff middleware
+2020-04-27 13:41:50,235 INFO 48394 [egg-security] use xssProtection middleware
+2020-04-27 13:41:50,236 INFO 48394 [egg-security] use xframe middleware
+2020-04-27 13:41:50,237 INFO 48394 [egg-security] use dta middleware
+2020-04-27 13:41:50,237 INFO 48394 [egg-security] compose 7 middlewares into one security middleware
+2020-04-27 13:41:50,245 INFO 48394 [egg:core] dump config after load, 7ms
+2020-04-27 13:41:50,265 INFO 48394 [egg-watcher:application] watcher start success
+2020-04-27 13:41:50,280 INFO 48394 [egg:core] dump config after ready, 12ms
+2020-04-27 13:42:35,682 INFO 48477 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-27 13:42:35,704 INFO 48477 [egg-multipart] stream mode enable
+2020-04-27 13:42:35,741 INFO 48477 [egg-static] starting static serve /public/ -> /Users/harry/project/applications/one-midway/packages/book/src/app/public
+2020-04-27 13:42:35,743 INFO 48477 [egg-security] use csrf middleware
+2020-04-27 13:42:35,743 INFO 48477 [egg-security] use methodnoallow middleware
+2020-04-27 13:42:35,743 INFO 48477 [egg-security] use noopen middleware
+2020-04-27 13:42:35,745 INFO 48477 [egg-security] use nosniff middleware
+2020-04-27 13:42:35,746 INFO 48477 [egg-security] use xssProtection middleware
+2020-04-27 13:42:35,746 INFO 48477 [egg-security] use xframe middleware
+2020-04-27 13:42:35,746 INFO 48477 [egg-security] use dta middleware
+2020-04-27 13:42:35,746 INFO 48477 [egg-security] compose 7 middlewares into one security middleware
+2020-04-27 13:42:35,753 INFO 48477 [egg:core] dump config after load, 6ms
+2020-04-27 13:42:35,767 INFO 48477 [egg-watcher:application] watcher start success
+2020-04-27 13:42:35,779 INFO 48477 [egg:core] dump config after ready, 10ms
+2020-04-27 13:50:39,760 INFO 49026 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-27 13:50:39,793 INFO 49026 [egg-multipart] stream mode enable
+2020-04-27 13:50:39,893 INFO 49026 [egg-static] starting static serve /public/ -> /Users/harry/project/applications/one-midway/packages/book/src/app/public
+2020-04-27 13:50:39,895 INFO 49026 [egg-security] use csrf middleware
+2020-04-27 13:50:39,897 INFO 49026 [egg-security] use methodnoallow middleware
+2020-04-27 13:50:39,898 INFO 49026 [egg-security] use noopen middleware
+2020-04-27 13:50:39,900 INFO 49026 [egg-security] use nosniff middleware
+2020-04-27 13:50:39,901 INFO 49026 [egg-security] use xssProtection middleware
+2020-04-27 13:50:39,902 INFO 49026 [egg-security] use xframe middleware
+2020-04-27 13:50:39,903 INFO 49026 [egg-security] use dta middleware
+2020-04-27 13:50:39,903 INFO 49026 [egg-security] compose 7 middlewares into one security middleware
+2020-04-27 13:50:39,910 INFO 49026 [egg:core] dump config after load, 6ms
+2020-04-27 13:50:39,925 INFO 49026 [egg-watcher:application] watcher start success
+2020-04-27 13:50:39,935 INFO 49026 [egg:core] dump config after ready, 7ms
+2020-04-27 13:51:20,998 INFO 49094 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-27 13:51:21,030 INFO 49094 [egg-multipart] stream mode enable
+2020-04-27 13:51:21,180 INFO 49094 [egg-static] starting static serve /public/ -> /Users/harry/project/applications/one-midway/packages/book/src/app/public
+2020-04-27 13:51:21,182 INFO 49094 [egg-security] use csrf middleware
+2020-04-27 13:51:21,184 INFO 49094 [egg-security] use methodnoallow middleware
+2020-04-27 13:51:21,185 INFO 49094 [egg-security] use noopen middleware
+2020-04-27 13:51:21,187 INFO 49094 [egg-security] use nosniff middleware
+2020-04-27 13:51:21,189 INFO 49094 [egg-security] use xssProtection middleware
+2020-04-27 13:51:21,190 INFO 49094 [egg-security] use xframe middleware
+2020-04-27 13:51:21,191 INFO 49094 [egg-security] use dta middleware
+2020-04-27 13:51:21,191 INFO 49094 [egg-security] compose 7 middlewares into one security middleware
+2020-04-27 13:51:21,198 INFO 49094 [egg:core] dump config after load, 6ms
+2020-04-27 13:51:21,212 INFO 49094 [egg-watcher:application] watcher start success
+2020-04-27 13:51:21,220 INFO 49094 [egg:core] dump config after ready, 5ms

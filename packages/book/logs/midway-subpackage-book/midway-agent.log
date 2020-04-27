@@ -1,0 +1,50 @@
+2020-04-27 13:39:57,376 INFO 48212 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-27 13:39:57,388 INFO 48212 [egg:core] dump config after load, 3ms
+2020-04-27 13:39:57,437 INFO 48212 [egg-watcher] Start watching: ["/Users/harry/project/applications/one-midway/packages/book/src/app","/Users/harry/project/applications/one-midway/packages/book/src/config","/Users/harry/project/applications/one-midway/packages/book/src/mocks","/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy","/Users/harry/project/applications/one-midway/packages/book/src/app.js"]
+2020-04-27 13:39:57,437 INFO 48212 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app"
+2020-04-27 13:39:57,437 INFO 48212 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/config"
+2020-04-27 13:39:57,437 INFO 48212 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks"
+2020-04-27 13:39:57,437 INFO 48212 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy"
+2020-04-27 13:39:57,437 INFO 48212 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app.js"
+2020-04-27 13:39:57,439 INFO 48212 [egg-watcher:agent] watcher start success
+2020-04-27 13:39:57,473 INFO 48212 [egg:core] dump config after ready, 26ms
+2020-04-27 13:41:48,419 INFO 48390 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-27 13:41:48,426 INFO 48390 [egg:core] dump config after load, 4ms
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher] Start watching: ["/Users/harry/project/applications/one-midway/packages/book/src/app","/Users/harry/project/applications/one-midway/packages/book/src/config","/Users/harry/project/applications/one-midway/packages/book/src/mocks","/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy","/Users/harry/project/applications/one-midway/packages/book/src/app.js"]
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app"
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/config"
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks"
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy"
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app.js"
+2020-04-27 13:41:48,474 INFO 48390 [egg-watcher:agent] watcher start success
+2020-04-27 13:41:48,500 INFO 48390 [egg:core] dump config after ready, 20ms
+2020-04-27 13:42:34,868 INFO 48472 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-27 13:42:34,874 INFO 48472 [egg:core] dump config after load, 3ms
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher] Start watching: ["/Users/harry/project/applications/one-midway/packages/book/src/app","/Users/harry/project/applications/one-midway/packages/book/src/config","/Users/harry/project/applications/one-midway/packages/book/src/mocks","/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy","/Users/harry/project/applications/one-midway/packages/book/src/app.js"]
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app"
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/config"
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks"
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy"
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app.js"
+2020-04-27 13:42:34,904 INFO 48472 [egg-watcher:agent] watcher start success
+2020-04-27 13:42:34,914 INFO 48472 [egg:core] dump config after ready, 4ms
+2020-04-27 13:50:37,978 INFO 49022 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-27 13:50:37,991 INFO 49022 [egg:core] dump config after load, 5ms
+2020-04-27 13:50:38,052 INFO 49022 [egg-watcher] Start watching: ["/Users/harry/project/applications/one-midway/packages/book/src/app","/Users/harry/project/applications/one-midway/packages/book/src/config","/Users/harry/project/applications/one-midway/packages/book/src/mocks","/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy","/Users/harry/project/applications/one-midway/packages/book/src/app.js"]
+2020-04-27 13:50:38,052 INFO 49022 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app"
+2020-04-27 13:50:38,053 INFO 49022 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/config"
+2020-04-27 13:50:38,053 INFO 49022 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks"
+2020-04-27 13:50:38,053 INFO 49022 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy"
+2020-04-27 13:50:38,053 INFO 49022 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app.js"
+2020-04-27 13:50:38,053 INFO 49022 [egg-watcher:agent] watcher start success
+2020-04-27 13:50:38,077 INFO 49022 [egg:core] dump config after ready, 16ms
+2020-04-27 13:51:19,029 INFO 49087 [egg:logger] init all loggers with options: {"dir":"/Users/harry/project/applications/one-midway/packages/book/logs/midway-subpackage-book","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-27 13:51:19,042 INFO 49087 [egg:core] dump config after load, 7ms
+2020-04-27 13:51:19,136 INFO 49087 [egg-watcher] Start watching: ["/Users/harry/project/applications/one-midway/packages/book/src/app","/Users/harry/project/applications/one-midway/packages/book/src/config","/Users/harry/project/applications/one-midway/packages/book/src/mocks","/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy","/Users/harry/project/applications/one-midway/packages/book/src/app.js"]
+2020-04-27 13:51:19,136 INFO 49087 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app"
+2020-04-27 13:51:19,136 INFO 49087 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/config"
+2020-04-27 13:51:19,137 INFO 49087 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks"
+2020-04-27 13:51:19,137 INFO 49087 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/mocks_proxy"
+2020-04-27 13:51:19,137 INFO 49087 [egg-watcher] Start watching: "/Users/harry/project/applications/one-midway/packages/book/src/app.js"
+2020-04-27 13:51:19,138 INFO 49087 [egg-watcher:agent] watcher start success
+2020-04-27 13:51:19,227 INFO 49087 [egg:core] dump config after ready, 75ms
